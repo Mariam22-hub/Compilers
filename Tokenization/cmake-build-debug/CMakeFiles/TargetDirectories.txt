@@ -1,0 +1,3 @@
+F:/FCAI/level4/CS-Level-4/first_Semster/Compiler/assignment1/cmake-build-debug/CMakeFiles/assignment1.dir
+F:/FCAI/level4/CS-Level-4/first_Semster/Compiler/assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/FCAI/level4/CS-Level-4/first_Semster/Compiler/assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
